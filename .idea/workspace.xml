@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17e1ddf5-cae0-4da2-afa1-2ea6a2b7bf6d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/support/env.rb" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/support/env.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Widgetinfo.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Widgetinfo.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/Widgetinfo.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -49,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WidgetState.feature" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WidgetState.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            <state relative-caret-position="153">
+              <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -75,10 +70,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature" />
         <option value="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/support/env.rb" />
         <option value="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/Gemfile" />
         <option value="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/step_definitions/widget_step_definitions.rb" />
+        <option value="$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature" />
       </list>
     </option>
   </component>
@@ -257,7 +252,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578031849425</updated>
       <workItem from="1578031851158" duration="3390000" />
-      <workItem from="1578035358280" duration="950000" />
+      <workItem from="1578035358280" duration="1701000" />
     </task>
     <servers />
   </component>
@@ -294,10 +289,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4340000" />
+    <option name="totallyTimeSpent" value="5091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -397,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/step_definitions/widget_step_definitions.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -415,6 +404,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud_testing-master/cloud_testing-master/CBaaS/features/WidgetState.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
