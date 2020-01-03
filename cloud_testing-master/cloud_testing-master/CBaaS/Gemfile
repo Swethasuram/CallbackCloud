@@ -3,7 +3,7 @@ source 'http://rubygems.org'
 
 gem 'cucumber'
 gem 'rest-client'
-gem 'uri'
+gem 'rspec'
 #
 #  source 'http://10.10.1.108:9292/' do
 #    gem 'vht_config_adapter', '>= 2.0.12'

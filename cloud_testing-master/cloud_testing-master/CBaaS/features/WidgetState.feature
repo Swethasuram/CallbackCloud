@@ -18,7 +18,7 @@ Feature: CBass widget functionality
   Scenario: ASAP call through widget
     Given I make a "POST" request to API widget with endpoint "/api/widget/929e1d09807714268873d62aae3ebeda/request_callback"
       """
-      {"contact_number":"7148814050", "appointment_time":null}
+      {"contact_number":"8019484836", "appointment_time":null}
   """
     And response should include "requested" and "callback_request_id"
     And response code must be 200
@@ -27,7 +27,7 @@ Feature: CBass widget functionality
   Scenario: Duplicate request through widget
     Given I make a "POST" request to API widget with endpoint "/api/widget/929e1d09807714268873d62aae3ebeda/request_callback"
       """
-      {"contact_number":"7148814050", "appointment_time":null}
+      {"contact_number":"8019484836", "appointment_time":null}
   """
     And response should include "DuplicateRequest" and "A Callback Request is already being made for this number"
     And response code must be 400
